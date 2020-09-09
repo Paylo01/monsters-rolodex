@@ -1,0 +1,9 @@
+.searchField {
+    outline: none;
+    height: 40px;
+    width: 200px;
+    margin: 20px;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #0e4a5a;
+}
